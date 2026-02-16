@@ -1,7 +1,5 @@
 <div align="center">
-  
-  
-  <img src="https://github.com/sapatbhetwal.png" width="150" height="150" style="border-radius: 50%;" alt="Sapat's Avatar"/>
+
   
   <h1>Hi there, I'm Sapat  👋</h1>
   <h3>Focused on Backend Engineering | Python | LLM Systems</h3>
@@ -47,8 +45,5 @@ I’m focused on learning and building backend systems, with a strong interest i
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<div align="center">
-  <img src="https://ghchart.rshah.org/40c463/sapatbhetwal" alt="Sapat's Github Chart" width="100%" />
-</div>
 
 
