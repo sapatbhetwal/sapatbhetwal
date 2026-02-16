@@ -49,12 +49,13 @@ I’m focused on learning and building backend systems, with a strong interest i
 
 
 ### Contribution History
-
 <div align="center">
-  <img src="https://ghchart.rshah.org/40c463/sapatbhetwal" alt="Sapat's Github Chart" width="100%" />
-</div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sapatbhetwal&theme=dark&hide_border=true&background=0D1117&ring=40c463&currStreakLabel=40c463&fire=40c463" alt="Streak" />
+  
+  <br/>
 
----
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sapatbhetwal&bg_color=0D1117&color=40c463&line=40c463&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
 
 
 
