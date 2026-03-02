@@ -1,8 +1,8 @@
 <div align="center">
 
   
-  <h1>Hi there, I'm Sapat  👋</h1>
-  <h3>Focused on Backend Engineering | Python | LLM Systems</h3>
+  <h1>Hi there, I'm Sapat  </h1>
+  <h3>Focused on Backend Engineering | Python </h3>
 
   
   <p>
@@ -15,29 +15,20 @@
 
 ---
 
-👨‍💻 About Me
+ About Me
 
 I’m focused on learning and building backend systems, with a strong interest in high-performance, asynchronous architectures and how they integrate with Generative AI in real-world applications.
 
-🔭 Currently learning by building FastAPI microservices, exploring RAG-style pipelines and AI-backed APIs.
 
-🏗️ Actively developing skills in system design, vector-based retrieval, and LLM orchestration concepts.
+ Performance-curious: experimenting with latency, token usage, and concurrency trade-offs.
 
-🧠 Exploring agentic workflows and practical ways to integrate large language models into backend services.
-
-⚡ Performance-curious: experimenting with latency, token usage, and concurrency trade-offs.
-
-### 🛠️ Technical Arsenal
+###  Technical Arsenal
 
 #### **Backend & Core**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 
-#### **LLM & AI Integration**
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 #### **Infrastructure & DevOps**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
